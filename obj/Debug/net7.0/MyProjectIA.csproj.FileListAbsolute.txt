@@ -1,0 +1,14 @@
+C:\Users\etere\OneDrive\Escritorio\MyProjectIA\MyProjectIA\bin\Debug\net7.0\MyProjectIA.exe
+C:\Users\etere\OneDrive\Escritorio\MyProjectIA\MyProjectIA\bin\Debug\net7.0\MyProjectIA.deps.json
+C:\Users\etere\OneDrive\Escritorio\MyProjectIA\MyProjectIA\bin\Debug\net7.0\MyProjectIA.runtimeconfig.json
+C:\Users\etere\OneDrive\Escritorio\MyProjectIA\MyProjectIA\bin\Debug\net7.0\MyProjectIA.dll
+C:\Users\etere\OneDrive\Escritorio\MyProjectIA\MyProjectIA\bin\Debug\net7.0\MyProjectIA.pdb
+C:\Users\etere\OneDrive\Escritorio\MyProjectIA\MyProjectIA\obj\Debug\net7.0\MyProjectIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etere\OneDrive\Escritorio\MyProjectIA\MyProjectIA\obj\Debug\net7.0\MyProjectIA.AssemblyInfoInputs.cache
+C:\Users\etere\OneDrive\Escritorio\MyProjectIA\MyProjectIA\obj\Debug\net7.0\MyProjectIA.AssemblyInfo.cs
+C:\Users\etere\OneDrive\Escritorio\MyProjectIA\MyProjectIA\obj\Debug\net7.0\MyProjectIA.csproj.CoreCompileInputs.cache
+C:\Users\etere\OneDrive\Escritorio\MyProjectIA\MyProjectIA\obj\Debug\net7.0\MyProjectIA.dll
+C:\Users\etere\OneDrive\Escritorio\MyProjectIA\MyProjectIA\obj\Debug\net7.0\refint\MyProjectIA.dll
+C:\Users\etere\OneDrive\Escritorio\MyProjectIA\MyProjectIA\obj\Debug\net7.0\MyProjectIA.pdb
+C:\Users\etere\OneDrive\Escritorio\MyProjectIA\MyProjectIA\obj\Debug\net7.0\MyProjectIA.genruntimeconfig.cache
+C:\Users\etere\OneDrive\Escritorio\MyProjectIA\MyProjectIA\obj\Debug\net7.0\ref\MyProjectIA.dll
